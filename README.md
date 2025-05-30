@@ -18,10 +18,10 @@ Welcome to my GitHub profile!
 
 Check out all my main academic projects: 
 
-**[APROG Project](https://github.com/1241093-FilipeArmada/TrabalhoPraticoAPROG_FilipeArmada_DarioPonte)**
-**[Integrative Project Repository LAPR1(2024/25)](https://github.com/Departamento-de-Engenharia-Informatica/lapr1-24-25_DGH_04)**
-**[LAPR1 Project Repository (2024/25)](https://github.com/Departamento-de-Engenharia-Informatica/LAPR1-Repositorio-Ignition-Squad)**
-**[Integrative Project Repository LAPR2(2024/25)](https://github.com/Departamento-de-Engenharia-Informatica/sem2-pi-24.25-g071-repo)**
+- **[APROG Project](https://github.com/1241093-FilipeArmada/TrabalhoPraticoAPROG_FilipeArmada_DarioPonte)**
+- **[Integrative Project Repository LAPR1(2024/25)](https://github.com/Departamento-de-Engenharia-Informatica/lapr1-24-25_DGH_04)**
+- **[LAPR1 Project Repository (2024/25)](https://github.com/Departamento-de-Engenharia-Informatica/LAPR1-Repositorio-Ignition-Squad)**
+- **[Integrative Project Repository LAPR2(2024/25)](https://github.com/Departamento-de-Engenharia-Informatica/sem2-pi-24.25-g071-repo)**
 
 ---
 
