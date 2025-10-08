@@ -14,7 +14,7 @@ Welcome to my GitHub profile!
 
 ## 🚀 Current Project
 
-[![Integrative Project Repository LAPR2(2024/25)](https://img.shields.io/badge/Featured%20Project-PI%20Integrative%20Project-blueviolet?style=for-the-badge&logo=github)](https://github.com/Departamento-de-Engenharia-Informatica/sem2-pi-24.25-g071-repo)
+[![Integrative Project Repository LAPR3(2025/26)](https://img.shields.io/badge/Featured%20Project-PI%20Integrative%20Project-blueviolet?style=for-the-badge&logo=github)](https://github.com/Departamento-de-Engenharia-Informatica/sem3-pi-25-26-g071-repo)
 
 Check out all my main academic projects: 
 
@@ -22,6 +22,7 @@ Check out all my main academic projects:
 - **[Integrative Project Repository LAPR1(2024/25)](https://github.com/Departamento-de-Engenharia-Informatica/lapr1-24-25_DGH_04)**
 - **[LAPR1 Project Repository (2024/25)](https://github.com/Departamento-de-Engenharia-Informatica/LAPR1-Repositorio-Ignition-Squad)**
 - **[Integrative Project Repository LAPR2(2024/25)](https://github.com/Departamento-de-Engenharia-Informatica/sem2-pi-24.25-g071-repo)**
+- **[Integrative Project Repository LAPR3(2025/26)](https://github.com/Departamento-de-Engenharia-Informatica/sem3-pi-25-26-g071-repo)**
 
 ---
 
